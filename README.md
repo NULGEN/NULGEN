@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NULGEN
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning sql, C# and web development tools
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Full-Stack Development tool
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me via mail
+- 📫 How to reach me via mail: nilufer.korkmaz@gmail.com
 
 <!---
 NULGEN/NULGEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
